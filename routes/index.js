@@ -7,6 +7,8 @@ const authRouter = require("./authRoute.js");
 // const authentication = require("../middlewares/authn");
 
 router.use("/", authRouter);
+
+
 // router.use("/customers", customerRouter)
 
 // router.use(authentication)
