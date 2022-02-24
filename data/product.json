@@ -1,0 +1,20 @@
+[
+    {
+        "product_name": "MSI",
+        "description": "MSI GE62 apache pro",
+        "quantity": 1,
+        "price": 18000000
+      },
+      {
+        "product_name": "ASUS",
+        "description": "ASUS XX ER",
+        "quantity": 1,
+        "price": 15000000
+      },
+      {
+        "product_name": "HP",
+        "description": "HP YPX",
+        "quantity": 1,
+        "price": 12000000
+      }
+]
